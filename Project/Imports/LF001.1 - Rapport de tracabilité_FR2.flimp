@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  ImportFolder="Projets Spéciaux"
+  LastImport="2026-09-01T14:05:21.8307176-04:00">
+  <Files>
+    <Url
+      Source="../../../../../../Downloads/LF001.1 - Rapport de tracabilité_FR.docx"
+      AbsoluteSource="file:///C:/Users/frederic.djeki/Downloads/LF001.1 - Rapport de tracabilité_FR.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/LF001.1 - Rapport de tracabilité_FR/LF001.1 - Rapport de tracabilité_FR2.png"
+      TimeStamp="2026-09-01 14:05:19" />
+    <Url
+      Source="../../Content/Projets Spéciaux/code D ENTRÉE SANS CLEFS.htm"
+      TimeStamp="2026-09-01 14:05:19" />
+    <Url
+      Source="../TOCs/LF001.1 - Rapport de tracabilité_FR2.fltoc"
+      TimeStamp="2026-09-01 14:05:19" />
+    <Url
+      Source="../../Content/Resources/TemplatePages/LF001.1 - Rapport de tracabilité_FR2.flmsp"
+      TimeStamp="2026-09-01 14:05:19" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/LF001.1 - Rapport de tracabilité_FR2.css"
+      TimeStamp="2026-09-01 14:05:19" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="En-tête"
+      To="p.En-tête"
+      Style="Word" />
+    <Map
+      From="Pied de page"
+      To="p.Pieddepage"
+      Style="Word" />
+    <Map
+      From="Titre"
+      To="p.Titre"
+      Style="Word" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Élevé"
+      To="span.Élevé"
+      Style="Word" />
+  </CharacterStyles>
+  <NewTopicStyles />
+</MsWordImport>

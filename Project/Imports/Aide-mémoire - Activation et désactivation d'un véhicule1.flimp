@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  ImportFolder=""
+  LastImport="2026-09-08T07:45:41.3057470-04:00">
+  <Files>
+    <Url
+      Source="../../../../../../Downloads/Aide-mémoire - Activation et désactivation d'un véhicule.docx"
+      AbsoluteSource="file:///C:/Users/frederic.djeki/Downloads/Aide-mémoire - Activation et désactivation d'un véhicule.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/LOKI COACH Aide mémoire.htm"
+      TimeStamp="2026-09-08 07:45:33" />
+    <Url
+      Source="../TOCs/Aide-mémoire - Activation et désactivation d'un véhicule1.fltoc"
+      TimeStamp="2026-09-08 07:45:32" />
+    <Url
+      Source="../../Content/Resources/TemplatePages/Aide-mémoire - Activation et désactivation d'un véhicule1.flmsp"
+      TimeStamp="2026-09-08 07:45:32" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Aide-mémoire - Activation et désactivation d'un véhicule1.css"
+      TimeStamp="2026-09-08 07:45:32" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Paragraphe de liste"
+      To="p.Paragraphedeliste"
+      Style="Word" />
+  </ParagraphStyles>
+  <CharacterStyles />
+  <NewTopicStyles />
+</MsWordImport>

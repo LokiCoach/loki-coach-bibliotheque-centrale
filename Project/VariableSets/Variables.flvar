@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName"
+    EvaluatedDefinition="Loki Coach">Loki Coach</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber">858 123 4567</Variable>
+  <Variable
+    Name="Address"
+    Comment=""
+    EvaluatedDefinition="455 rue Poincaré, Quebec, QC G1P 3T7">455 rue Poincaré, Quebec, QC G1P 3T7</Variable>
+  <Variable
+    Name="NewVariable"
+    Comment="" />
+  <Variable
+    Name="Copie de NewVariable"
+    Comment="" />
+</CatapultVariableSet>

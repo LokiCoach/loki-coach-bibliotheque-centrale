@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+    </head>
+    <body>
+        <p>&#160;</p>
+        <p>
+            <MadCap:pageHeader class="FirstPage">
+                <p>
+                    <MadCap:pageHeader class="FirstPage">
+                        <p>- <MadCap:variable name="System.PageNumber" /> -</p>
+                    </MadCap:pageHeader>
+                </p>
+                <table style="width: 100%;">
+                    <col />
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td>
+                                <img src="../Images/Logo/logo_LOKIcoach.png" />
+                            </td>
+                            <td style="text-align: right;"><span style="font-size: 20pt;"><span style="font-size: 18pt;"></span></span><span class="float" style="font-weight: bold;"><span style="font-size: 20pt;"><span style="font-size: 18pt;">AIDE-MÉMOIRE</span></span></span>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p>&#160;</p>
+            </MadCap:pageHeader>
+        </p>
+        <div>
+            <table class="table_1">
+                <col class="col_10" />
+                <col class="col_1" />
+                <tr>
+                    <td class="td_6">
+                        <p><span class="span_1">Titre </span>Starlink – Transfert de propriété</p>
+                    </td>
+                    <td class="td_6">
+                        <p><span class="span_1">No. : </span>CC001_fr</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="td_6">
+                        <p><span class="span_1">Département : </span>Expérience clients</p>
+                    </td>
+                    <td class="td_6">
+                        <p><span class="span_1">Révision : </span>00</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="td_6">
+                        <p><span class="span_1">Responsable : </span>Martin Goizioux</p>
+                    </td>
+                    <td class="td_6">
+                        <p><span class="span_1">Date : </span>2026-04-29</p>
+                    </td>
+                </tr>
+            </table>
+            <p class="En-tête">&#160;</p>
+        </div>
+        <MadCap:bodyProxy />
+        <div>
+            <p><span class="span_2">2026-04-29 - CC001 Starlink — Transfert de propriété&#160;&#160;&#160;&#160;</span><span class="span_1">Page 2 de 2</span>
+            </p>
+            <p class="Pieddepage">&#160;</p>
+        </div>
+    </body>
+</html>

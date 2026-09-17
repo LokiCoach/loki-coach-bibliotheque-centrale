@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <table style="width: 100%;">
+            <col>
+            </col>
+            <col>
+            </col>
+            <tbody>
+                <tr>
+                    <td style="text-align: left;">
+                        <MadCap:pageHeader class="FirstPage">
+                            <p style="text-align: left;">
+                                <img src="../../Images/Logo/logo_LOKIcoach.png">
+                                </img>
+                            </p>
+                        </MadCap:pageHeader>
+                    </td>
+                    <td style="text-align: right;"><span style="font-size: 16pt; font-weight: bold;">QUICK-GUIDE</span>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&#160;</p>
+        <table style="width: 100%;">
+            <col>
+            </col>
+            <col>
+            </col>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>Title: </p>
+                    </td>
+                    <td>No.: </td>
+                </tr>
+                <tr>
+                    <td>Departement: </td>
+                    <td>Révision : </td>
+                </tr>
+                <tr>
+                    <td>Owner: </td>
+                    <td>Date : </td>
+                </tr>
+            </tbody>
+        </table>
+        <p class="p_1">&#160;</p>
+    </body>
+</html>

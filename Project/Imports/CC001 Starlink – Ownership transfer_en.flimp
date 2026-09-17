@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  ImportFolder="Resources\Formation clients\Aide-mémoire\EN"
+  LastImport="2026-08-27T10:52:45.6392061-04:00">
+  <Files>
+    <Url
+      Source="../../../../../../Downloads/CC001 Starlink – Ownership transfer_en.docx"
+      AbsoluteSource="file:///C:/Users/frederic.djeki/Downloads/CC001 Starlink – Ownership transfer_en.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/CC001 Starlink – Ownership transfer_en/CC001 Starlink – Ownership transfer_en.png"
+      TimeStamp="2026-08-27 10:52:43" />
+    <Url
+      Source="../../Content/Resources/Formation clients/Aide-mémoire/EN/THE 3 ESSENTIALS.htm"
+      TimeStamp="2026-08-27 10:52:43" />
+    <Url
+      Source="../TOCs/CC001 Starlink – Ownership transfer_en.fltoc"
+      TimeStamp="2026-08-27 10:52:43" />
+    <Url
+      Source="../../Content/Resources/TemplatePages/CC001 Starlink – Ownership transfer_en.flmsp"
+      TimeStamp="2026-08-27 10:52:43" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/CC001 Starlink – Ownership transfer_en.css"
+      TimeStamp="2026-08-27 10:52:43" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="En-tête"
+      To="p.En-tête"
+      Style="Word" />
+    <Map
+      From="Pied de page"
+      To="p.Pieddepage"
+      Style="Word" />
+  </ParagraphStyles>
+  <CharacterStyles />
+  <NewTopicStyles />
+</MsWordImport>

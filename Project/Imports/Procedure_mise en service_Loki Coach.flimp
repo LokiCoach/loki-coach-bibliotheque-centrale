@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  ImportFolder="Resources\Formation clients\Aide-mémoire\FR"
+  LastImport="2026-08-27T15:38:14.7640617-04:00">
+  <Files>
+    <Url
+      Source="../../../../../../Downloads/Procedure_mise en service_Loki Coach.docx"
+      AbsoluteSource="file:///C:/Users/frederic.djeki/Downloads/Procedure_mise en service_Loki Coach.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Formation clients/Aide-mémoire/FR/LOKI COACH.htm"
+      TimeStamp="2026-08-27 15:38:11" />
+    <Url
+      Source="../TOCs/Procedure_mise en service_Loki Coach.fltoc"
+      TimeStamp="2026-08-27 15:38:11" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Procedure_mise en service_Loki Coach.css"
+      TimeStamp="2026-08-27 15:38:11" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Corps de texte"
+      To="p.Corpsdetexte"
+      Style="Word" />
+    <Map
+      From="Table Paragraph"
+      To="p.TableParagraph"
+      Style="Word" />
+    <Map
+      From="Titre 1"
+      To="p.Titre1"
+      Style="Word" />
+    <Map
+      From="Titre 2"
+      To="p.Titre2"
+      Style="Word" />
+  </ParagraphStyles>
+  <CharacterStyles />
+  <NewTopicStyles />
+</MsWordImport>

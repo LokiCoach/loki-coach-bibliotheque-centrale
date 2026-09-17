@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  ImportFolder="Resources\Formation clients\Aide-mémoire"
+  LastImport="2026-08-26T13:25:08.7909448-04:00">
+  <Files>
+    <Url
+      Source="../../../../../../Downloads/CC001 Starlink – Transfert de propriété_fr.docx"
+      AbsoluteSource="file:///C:/Users/frederic.djeki/Downloads/CC001 Starlink – Transfert de propriété_fr.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/CC001 Starlink – Transfert de propriété_fr/CC001 Starlink – Transfert de propriété_fr.png"
+      TimeStamp="2026-08-26 13:25:03" />
+    <Url
+      Source="../../Content/Resources/Formation clients/Aide-mémoire/L ESSENTIEL EN 3 POINTS.htm"
+      TimeStamp="2026-08-26 13:25:04" />
+    <Url
+      Source="../TOCs/CC001 Starlink – Transfert de propriété_fr.fltoc"
+      TimeStamp="2026-08-26 13:25:03" />
+    <Url
+      Source="../../Content/Resources/TemplatePages/CC001 Starlink – Transfert de propriété_fr.flmsp"
+      TimeStamp="2026-08-26 13:25:03" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/CC001 Starlink – Transfert de propriété_fr.css"
+      TimeStamp="2026-08-26 13:25:03" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="En-tête"
+      To="p.En-tête"
+      Style="Word" />
+    <Map
+      From="Pied de page"
+      To="p.Pieddepage"
+      Style="Word" />
+  </ParagraphStyles>
+  <CharacterStyles />
+  <NewTopicStyles />
+</MsWordImport>

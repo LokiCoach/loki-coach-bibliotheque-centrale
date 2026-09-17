@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+    </head>
+    <body>
+        <div>
+            <p class="Titre_3">
+                <img src="../Images/LF001.1 - Rapport de tracabilité_FR/LF001.1 - Rapport de tracabilité_FR2.png" class="img_1" />
+                <br /><span class="span_3">Rapport de traçabilité</span>
+            </p>
+            <table class="table_2">
+                <col class="col_10" />
+                <col class="col_10" />
+                <col class="col_11" />
+                <col class="col_12" />
+                <col class="col_13" />
+                <tbody>
+                    <tr>
+                        <td class="td_11">
+                            <p class="p_2"><span class="Élevé">Québec, QC<br />Canada G2N 0J9</span>
+                            </p>
+                        </td>
+                        <td class="td_12">
+                            <p class="p_2"><span class="Élevé">Motorisé</span>
+                            </p>
+                        </td>
+                        <td class="td_12">
+                            <p class="p_2"><span class="Élevé">Numéro de série:&#160; </span>T110078</p>
+                        </td>
+                        <td colspan="2" class="td_12">
+                            <p class="p_2"><span class="Élevé">Numéro de véhicule:</span>
+                                <br />LS007</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="td_13">
+                            <p class="p_2"><span class="Élevé">Date:</span>
+                                <br />1er septembre 2026</p>
+                        </td>
+                        <td colspan="2" class="td_10">
+                            <p class="p_2"><span class="Élevé">Client:</span>
+                                <br /><span class="Élevé_1">INSPQ</span>
+                            </p>
+                        </td>
+                        <td class="td_10">
+                            <p class="p_2"><span class="Élevé">Rév.:<br /></span>0</p>
+                        </td>
+                        <td class="td_10">
+                            <p class="p_2"><span class="Élevé">Page:</span>
+                                <br />1</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <p class="En-tête">&#160;</p>
+        </div>
+        <MadCap:bodyProxy />
+        <div>
+            <table class="table_2">
+                <col class="col_5" />
+                <col class="col_5" />
+                <col class="col_5" />
+                <tr class="tr_2">
+                    <td>
+                        <p class="En-tête_1">&#160;</p>
+                    </td>
+                    <td>
+                        <p class="En-tête_2">&#160;</p>
+                    </td>
+                    <td>
+                        <p class="En-tête_3">&#160;</p>
+                    </td>
+                </tr>
+            </table>
+            <p class="Pieddepage">&#160;</p>
+        </div>
+    </body>
+</html>

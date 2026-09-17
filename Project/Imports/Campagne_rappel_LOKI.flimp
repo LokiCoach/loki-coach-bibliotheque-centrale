@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  ImportFolder="Garantie\FR"
+  LastImport="2026-09-01T11:19:23.6907820-04:00">
+  <Files>
+    <Url
+      Source="../../../../../../Downloads/Campagne_rappel_LOKI.docx"
+      AbsoluteSource="file:///C:/Users/frederic.djeki/Downloads/Campagne_rappel_LOKI.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Campagne_rappel_LOKI/Campagne_rappel_LOKI.png"
+      TimeStamp="2026-09-01 11:19:19" />
+    <Url
+      Source="../../Content/Garantie/FR/APPLICATION.htm"
+      TimeStamp="2026-09-01 11:19:19" />
+    <Url
+      Source="../TOCs/Campagne_rappel_LOKI.fltoc"
+      TimeStamp="2026-09-01 11:19:19" />
+    <Url
+      Source="../../Content/Resources/TemplatePages/Campagne_rappel_LOKI.flmsp"
+      TimeStamp="2026-09-01 11:19:19" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Campagne_rappel_LOKI.css"
+      TimeStamp="2026-09-01 11:19:19" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="En-tête"
+      To="p.En-tête"
+      Style="Word" />
+    <Map
+      From="Paragraphe de liste"
+      To="p.Paragraphedeliste"
+      Style="Word" />
+    <Map
+      From="Pied de page"
+      To="p.Pieddepage"
+      Style="Word" />
+  </ParagraphStyles>
+  <CharacterStyles />
+  <NewTopicStyles />
+</MsWordImport>

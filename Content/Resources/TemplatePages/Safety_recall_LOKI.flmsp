@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+    </head>
+    <body>
+        <div>
+            <table class="table_2">
+                <col class="col_6" />
+                <col class="col_6" />
+                <tbody>
+                    <tr>
+                        <td class="td_5">
+                            <p>
+                                <img src="../Images/Safety_recall_LOKI/Safety_recall_LOKI.png" alt="COACH  AI-generated content may be incorrect." class="img_1" />
+                            </p>
+                        </td>
+                        <td class="td_5">
+                            <p class="p_9">SAFETY RECALL</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <p class="En-tête">&#160;</p>
+            <table class="table_2">
+                <col class="col_7" />
+                <col class="col_8" />
+                <tr>
+                    <td class="td_6">
+                        <p class="p_5">Title: </p>
+                    </td>
+                    <td class="td_6">
+                        <p><span class="span_3">No.: </span>SR26-002_en</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="td_6">
+                        <p><span class="span_3">Department: </span>Warranty</p>
+                    </td>
+                    <td class="td_6">
+                        <p><span class="span_3">Revision: </span>00</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="td_6">
+                        <p><span class="span_3">Owner: </span>Martin Goizioux</p>
+                    </td>
+                    <td class="td_6">
+                        <p><span class="span_3">Date: </span>2026-05-27</p>
+                    </td>
+                </tr>
+            </table>
+            <p class="En-tête">&#160;</p>
+        </div>
+        <MadCap:bodyProxy />
+        <div>
+            <p><span class="span_4">2026-09-01 – SR26-001 Alternators charging issue</span>&#160;&#160;&#160;&#160;<span class="span_3">Page 2 of 2</span></p>
+            <p class="Pieddepage">&#160;</p>
+        </div>
+    </body>
+</html>
