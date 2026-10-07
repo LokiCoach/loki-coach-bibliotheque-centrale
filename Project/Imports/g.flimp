@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  ImportFolder="Expérience client\Qualité de produit\P&amp;IT\600-699\LW650"
+  LastImport="2026-09-29T09:43:22.5747976-04:00">
+  <Files>
+    <Url
+      Source="../../../../../FL/g.docx"
+      AbsoluteSource="file:///C:/Users/frederic.djeki/OneDrive - LOKI COACH/FL/g.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/g/g.png"
+      TimeStamp="2026-09-29 09:43:13" />
+    <Url
+      Source="../../Content/Resources/Images/g/Émission initiale.png"
+      TimeStamp="2026-09-29 09:43:13" />
+    <Url
+      Source="../../Content/Resources/Images/g/Émission initiale_1.png"
+      TimeStamp="2026-09-29 09:43:13" />
+    <Url
+      Source="../../Content/Resources/Images/g/Émission initiale.jpg"
+      TimeStamp="2026-09-29 09:43:13" />
+    <Url
+      Source="../../Content/Resources/Images/g/Émission initiale_2.png"
+      TimeStamp="2026-09-29 09:43:13" />
+    <Url
+      Source="../../Content/Resources/Images/g/Émission initiale_1.jpg"
+      TimeStamp="2026-09-29 09:43:13" />
+    <Url
+      Source="../../Content/Resources/Images/g/Émission initiale_2.jpg"
+      TimeStamp="2026-09-29 09:43:13" />
+    <Url
+      Source="../../Content/Resources/Images/g/Émission initiale_3.jpg"
+      TimeStamp="2026-09-29 09:43:13" />
+    <Url
+      Source="../../Content/Resources/Images/g/Émission initiale_4.jpg"
+      TimeStamp="2026-09-29 09:43:13" />
+    <Url
+      Source="../../Content/Resources/Images/g/Émission initiale_5.jpg"
+      TimeStamp="2026-09-29 09:43:13" />
+    <Url
+      Source="../../Content/Resources/Images/g/Émission initiale_6.jpg"
+      TimeStamp="2026-09-29 09:43:13" />
+    <Url
+      Source="../../Content/Resources/Images/g/Émission initiale_7.jpg"
+      TimeStamp="2026-09-29 09:43:13" />
+    <Url
+      Source="../../Content/Resources/Images/g/Émission initiale_8.jpg"
+      TimeStamp="2026-09-29 09:43:13" />
+    <Url
+      Source="../../Content/Resources/Images/g/Émission initiale_9.jpg"
+      TimeStamp="2026-09-29 09:43:13" />
+    <Url
+      Source="../../Content/Resources/Images/g/Émission initiale_10.jpg"
+      TimeStamp="2026-09-29 09:43:13" />
+    <Url
+      Source="../../Content/Resources/Images/g/Émission initiale_11.jpg"
+      TimeStamp="2026-09-29 09:43:13" />
+    <Url
+      Source="../../Content/Resources/Images/g/Émission initiale_12.jpg"
+      TimeStamp="2026-09-29 09:43:13" />
+    <Url
+      Source="../../Content/Resources/Images/g/Émission initiale_13.jpg"
+      TimeStamp="2026-09-29 09:43:13" />
+    <Url
+      Source="../../Content/Resources/Images/g/Émission initiale_14.jpg"
+      TimeStamp="2026-09-29 09:43:13" />
+    <Url
+      Source="../../Content/Resources/Images/g/Émission initiale_15.jpg"
+      TimeStamp="2026-09-29 09:43:13" />
+    <Url
+      Source="../../Content/Resources/Images/g/Émission initiale_16.jpg"
+      TimeStamp="2026-09-29 09:43:13" />
+    <Url
+      Source="../../Content/Expérience client/Qualité de produit/P&amp;IT/600-699/LW650/Émission initiale.htm"
+      TimeStamp="2026-09-29 09:43:14" />
+    <Url
+      Source="../TOCs/g.fltoc"
+      TimeStamp="2026-09-29 09:43:14" />
+    <Url
+      Source="../../Content/Resources/TemplatePages/g.flmsp"
+      TimeStamp="2026-09-29 09:43:14" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/g.css"
+      TimeStamp="2026-09-29 09:43:14" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="En-tête"
+      To="p.En-tête"
+      Style="Word" />
+    <Map
+      From="Paragraphe de liste"
+      To="p.Paragraphedeliste"
+      Style="Word" />
+    <Map
+      From="Pied de page"
+      To="p.Pieddepage"
+      Style="Word" />
+    <Map
+      From="Titre"
+      To="p.Titre"
+      Style="Word" />
+    <Map
+      From="Titre 2"
+      To="p.Titre2"
+      Style="Word" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Élevé"
+      To="span.Élevé"
+      Style="Word" />
+    <Map
+      From="Lien hypertexte"
+      To="span.Lienhypertexte"
+      Style="Word" />
+  </CharacterStyles>
+  <NewTopicStyles />
+</MsWordImport>
