@@ -1,13 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PageStyles>
     <Page Name="Normal" Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" PageType="first" BleedBottom="0" BleedLeft="0" BleedTop="0" BleedRight="0">
-        <Frame Flow="header" Height="0.5in" Right="7px" X="-7px" Y="-0.7604167in" ColumnCount="1" Width="6.5in" Bottom="889px">
+        <Frame Flow="header" Height="1.479167in" Right="3px" X="-3px" Y="-0.71875in" ColumnCount="1" Width="6.5in" Bottom="791px">
             <Content>
                 <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
                     <xhtml:head>
+                        <xhtml:link xhtml:href="../TableStyles/Noir.css" xhtml:rel="stylesheet" MadCap:stylesheetType="table" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
                     </xhtml:head>
                     <xhtml:body>
-                        <xhtml:p>&#160;</xhtml:p>
+                        <xhtml:table xhtml:style="width: 100%;">
+                            <xhtml:col />
+                            <xhtml:col />
+                            <xhtml:tbody>
+                                <xhtml:tr>
+                                    <xhtml:td>
+                                        <xhtml:img xhtml:src="../Images/Logo/logo_LOKIcoach.png" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                                    </xhtml:td>
+                                    <xhtml:td xhtml:style="font-weight: bold;text-align: right;"><xhtml:span xhtml:style="font-family: ;">INSTRUCTION DE TRAVAIL</xhtml:span>
+                                    </xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
+                        <xhtml:table xhtml:style="width: 100%;mc-table-style: url('../TableStyles/Noir.css');" xhtml:class="TableStyle-Noir" xhtml:cellspacing="0">
+                            <xhtml:col xhtml:class="TableStyle-Noir-Column-Column1" />
+                            <xhtml:col xhtml:class="TableStyle-Noir-Column-Column1" />
+                            <xhtml:tbody>
+                                <xhtml:tr xhtml:class="TableStyle-Noir-Body-Body1">
+                                    <xhtml:td xhtml:class="TableStyle-Noir-BodyE-Column1-Body1"><xhtml:b>Titre</xhtml:b>: Déconnexion des équipements électriques pour permettre les opérations de soudage</xhtml:td>
+                                    <xhtml:td xhtml:class="TableStyle-Noir-BodyD-Column1-Body1"><xhtml:b>No.</xhtml:b>: LW650</xhtml:td>
+                                </xhtml:tr>
+                                <xhtml:tr xhtml:class="TableStyle-Noir-Body-Body1">
+                                    <xhtml:td xhtml:class="TableStyle-Noir-BodyE-Column1-Body1"><xhtml:b>Département</xhtml:b>: Qualité de produit</xhtml:td>
+                                    <xhtml:td xhtml:class="TableStyle-Noir-BodyD-Column1-Body1"><xhtml:b>Révision</xhtml:b>: 00</xhtml:td>
+                                </xhtml:tr>
+                                <xhtml:tr xhtml:class="TableStyle-Noir-Body-Body1">
+                                    <xhtml:td xhtml:class="TableStyle-Noir-BodyB-Column1-Body1"><xhtml:b>Responsable</xhtml:b>: Martin Goizioux</xhtml:td>
+                                    <xhtml:td xhtml:class="TableStyle-Noir-BodyA-Column1-Body1"><xhtml:b>Date</xhtml:b> : 2026-10-02</xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
                     </xhtml:body>
                 </xhtml:html>
             </Content>
@@ -16,12 +47,23 @@
             <Content>
                 <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
                     <xhtml:body>
-                        <xhtml:p>&#160;</xhtml:p>
+                        <xhtml:table xhtml:style="width: 100%;">
+                            <xhtml:col />
+                            <xhtml:col />
+                            <xhtml:tbody>
+                                <xhtml:tr>
+                                    <xhtml:td xhtml:style="text-align: left;"><xhtml:span xhtml:style="font-size: 10pt;">0<xhtml:span xhtml:style="font-size: 8pt;">1-10-2026 – LW650 - Déconnexion des équipements électriques pour permettre les opérations de soudage</xhtml:span></xhtml:span>
+                                    </xhtml:td>
+                                    <xhtml:td><MadCap:variable xhtml:name="System.PageNumber" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                                    </xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
                     </xhtml:body>
                 </xhtml:html>
             </Content>
         </Frame>
-        <Frame Flow="body" ColumnCount="1" ColumnGap="0.25in" ColumnDivider="Solid 1pt Black" Width="6.5in" Height="9in" X="0px" Y="0px" Right="0px" Bottom="0px">
+        <Frame Flow="body" ColumnCount="1" ColumnGap="0.25in" ColumnDivider="Solid 1pt Black" Width="6.5in" Height="8.291667in" X="-3px" Y="78px" Right="3px" Bottom="-10px">
         </Frame>
     </Page>
 </PageStyles>

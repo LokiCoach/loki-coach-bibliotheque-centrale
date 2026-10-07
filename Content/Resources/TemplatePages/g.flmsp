@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+        <link href="../Stylesheets/g.css" rel="stylesheet" />
+    </head>
+    <body>
+        <div>
+            <table class="table_1">
+                <col class="col_8" />
+                <col class="col_8" />
+                <tbody>
+                    <tr>
+                        <td>
+                            <p class="En-tête">
+                                <img src="../Images/g/g.png" class="img_21" />
+                            </p>
+                        </td>
+                        <td>
+                            <p class="Titre_1"><span class="Élevé_1">INSTRUCTION DE TRAVAIL</span>
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <p>&#160;</p>
+            <table class="table_1">
+                <col class="col_18" />
+                <col class="col_19" />
+                <tr>
+                    <td class="td_5">
+                        <p class="p_2"><span class="Élevé">Titre: </span><span class="Élevé_2">Déconnexion des équipements électriques pour permettre les opérations de soudage</span>
+                        </p>
+                    </td>
+                    <td class="td_6">
+                        <p class="p_2"><span class="Élevé">No.: LW650</span>
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="td_7">
+                        <p class="p_2"><span class="Élevé">Département: </span><span class="Élevé_2">Qualité de produit</span>
+                        </p>
+                    </td>
+                    <td class="td_8">
+                        <p class="p_2"><span class="Élevé">Révision:</span> 00</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="td_7">
+                        <p class="p_2"><span class="Élevé">Responsable: </span><span class="Élevé_2">Martin Goizioux</span>
+                        </p>
+                    </td>
+                    <td class="td_8">
+                        <p class="p_10">Date&#160;: 2026-09-29</p>
+                    </td>
+                </tr>
+            </table>
+            <p class="En-tête">&#160;</p>
+        </div>
+        <MadCap:bodyProxy />
+        <div>
+            <table class="table_1">
+                <col class="col_20" />
+                <col class="col_4" />
+                <tr>
+                    <td>
+                        <p class="Pieddepage_1"><span class="span_4">29-09-2026 – LW650 - Modèle pour Instructions de travail</span>
+                        </p>
+                    </td>
+                    <td>
+                        <p class="Pieddepage_2"><span class="Élevé">Page 1 de 1</span>
+                        </p>
+                    </td>
+                </tr>
+            </table>
+            <p class="Pieddepage">&#160;</p>
+        </div>
+    </body>
+</html>
