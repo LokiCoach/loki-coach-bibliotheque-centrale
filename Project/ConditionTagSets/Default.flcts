@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultConditionTagSet>
   <ConditionTag
     Comment=""
-    Name="ScreenOnly"
+    Name="S3"
     BackgroundColor="Blue" />
   <ConditionTag
     Comment=""
-    Name="PrintOnly"
+    Name="S4"
     BackgroundColor="Red" />
   <ConditionTag
     BackgroundColor="#008000"
-    Name="Web"
+    Name="S2"
     Comment="" />
   <ConditionTag
     BackgroundColor="#ffa500"
@@ -18,6 +18,14 @@
     Comment="" />
   <ConditionTag
     BackgroundColor="#8b008b"
-    Name="Mobile"
+    Name="S1"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="NewTag"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="S0"
     Comment="" />
 </CatapultConditionTagSet>
